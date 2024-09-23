@@ -39,7 +39,9 @@ p, a  {
     margin: 5px;
     text-decoration: none;
 }
-
+html {
+    scroll-behavior: smooth;
+}
 
 /* Navigation Bar */
 
